@@ -39,7 +39,6 @@ provided with this assessment.
 Answer:
 - Most profitable group is Men of the age of 50-60 in the UK 
 that are interested in technology and office supplies.
-- Most likely office workers.
 
 #### Deliverable
 - Data wrangling
